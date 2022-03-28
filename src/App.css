@@ -1,5 +1,12 @@
 .App {
   text-align: center;
+  background-image: url(https://st.depositphotos.com/1479444/3723/v/600/depositphotos_37236589-stock-illustration-pattern-cinema-doodles.jpg);
+}
+
+.Intro {
+  color: rgb(169, 198, 223);
+  font-size: 300%;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 
 .App-logo {
